@@ -70,7 +70,7 @@ export const Setting: Array<Setting> = [
   {
     key: SettingKeys.Game_Speed,
     label: "Game Speed",
-    options: ["1x", "1.25x", "1.5x", "2x", "2.5x", "3x", "4x", "5x"],
+    options: ["1x", "1.25x", "1.5x", "2x", "2.5x", "3x", "4x", "5x", "8x", "10x"],
     default: 3,
     type: SettingType.GENERAL
   },
